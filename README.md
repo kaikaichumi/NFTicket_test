@@ -56,10 +56,7 @@
 ![image](https://github.com/kaikaichumi/NFTicket_test/blob/main/result_pic/save_flatten.png)
 <br>
 
-複製所有代碼
-<br>
-
-![image](https://github.com/kaikaichumi/NFTicket_test/blob/main/result_pic/copy_verify.png)
+複製所有flatten代碼
 <br>
 
 貼上代碼並在第一行加上
@@ -95,7 +92,12 @@
 ![image](https://github.com/kaikaichumi/NFTicket_test/blob/main/result_pic/changedonate.png)
 <br>
 
-在PLOYSCAN你的合約寫入Token URI(記得點擊紅色的連結Owner錢包按鈕)，如下圖所示:
+點擊紅色按鈕連結Owner錢包
+
+在PLOYSCAN你的合約寫入Token URI，如下圖所示:
+```
+https://ipfs.io/ipfs/${你剛剛上傳JSON資料夾的 CID}/metadata.json
+```
 ![image](https://github.com/kaikaichumi/NFTicket_test/blob/main/result_pic/setTokenURI.png)
 <br>
 
