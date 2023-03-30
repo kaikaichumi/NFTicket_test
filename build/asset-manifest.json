@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/kaikaichumi/NFTicket_test.git/static/css/main.ad3bd00c.css",
+    "main.js": "/kaikaichumi/NFTicket_test.git/static/js/main.f7af8e33.js",
+    "static/media/banner-bg2.png": "/kaikaichumi/NFTicket_test.git/static/media/banner-bg2.434ffabe120d747fcc86.png",
+    "static/media/NightClub.png": "/kaikaichumi/NFTicket_test.git/static/media/NightClub.e8c04f3db8066a95bd93.png",
+    "static/media/NightClub2.png": "/kaikaichumi/NFTicket_test.git/static/media/NightClub2.ba5b2ee5e00275874c1e.png",
+    "static/media/NightClub3.png": "/kaikaichumi/NFTicket_test.git/static/media/NightClub3.542b879e7463d543a2d1.png",
+    "static/media/color-sharp2.png": "/kaikaichumi/NFTicket_test.git/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img.svg": "/kaikaichumi/NFTicket_test.git/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/kaikaichumi/NFTicket_test.git/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/kaikaichumi/NFTicket_test.git/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/kaikaichumi/NFTicket_test.git/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/kaikaichumi/NFTicket_test.git/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/nav-icon5.svg": "/kaikaichumi/NFTicket_test.git/static/media/nav-icon5.d90f4eb20175ebc0d35b57f1e244a135.svg",
+    "static/media/nav-icon4.svg": "/kaikaichumi/NFTicket_test.git/static/media/nav-icon4.b0c00e77c4868a36af59d1f5d7741bf6.svg",
+    "static/media/nav-icon6.svg": "/kaikaichumi/NFTicket_test.git/static/media/nav-icon6.ad671596bb90b54781e8d5109bfba23a.svg",
+    "static/media/nav-icon3.svg": "/kaikaichumi/NFTicket_test.git/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon2.svg": "/kaikaichumi/NFTicket_test.git/static/media/nav-icon2.12634321b98fb0248357c3aab640c2bf.svg",
+    "index.html": "/kaikaichumi/NFTicket_test.git/index.html",
+    "static/media/nav-icon1.svg": "/kaikaichumi/NFTicket_test.git/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.ad3bd00c.css.map": "/kaikaichumi/NFTicket_test.git/static/css/main.ad3bd00c.css.map",
+    "main.f7af8e33.js.map": "/kaikaichumi/NFTicket_test.git/static/js/main.f7af8e33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad3bd00c.css",
+    "static/js/main.f7af8e33.js"
+  ]
+}
